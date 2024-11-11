@@ -1,2 +1,1 @@
-The first image repository.
-# cloudimg1st
+# The first image repository.
